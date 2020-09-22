@@ -1,3 +1,6 @@
 # Animal-crossing-FAQ
 Faq for ACNH
-## Hello does this work?
+### Credits:
+\
+@littlesnorlax
+@Diablo#1311
