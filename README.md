@@ -20,6 +20,6 @@ Faq for ACNH
 - NPC Visitors and Special Characters
 - Events
 - Miscellaneous
-## Animal Crossing: New Horizons
+### Animal Crossing: New Horizons
 # Frequently Asked Questions
 ### ver. 1.0
